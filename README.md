@@ -1,1 +1,3 @@
-# Hello-World-Udemy
+# maven-project
+
+Simple Maven Project
